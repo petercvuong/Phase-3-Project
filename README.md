@@ -1,3 +1,4 @@
+![CDC Logo](https://www.hamiltoncountyhealth.org/wp-content/uploads/cdc-logo.png) <br>
 # Phase 3 - Project 3 - Tackling Flu and Vaccine Misinformation
 # Project Team:
 - [**Ilene Sorto**](https://github.com/ileneee)
@@ -27,9 +28,9 @@ After binning the two values we noticed class imbalance between little to no kno
 Lastly before modeling we used an `Extra Tree Classifier` to identify which features were most important to our respondents 
 
 
-We found the most important features for the respondents were:
+We found some of the important features for the respondents were:
 
--  Respondent's worry of getting sick from taking H1N1 vaccine
+- Respondent's worry of getting sick from taking H1N1 vaccine
 
 - Respondent's opinion about H1N1 vaccine effectiveness.
 
@@ -57,7 +58,7 @@ First we want to create a `DummyClassifier` model that will serve as the baselin
 The precision increase to 60% is important to us because in our models we would like to focus more on those who responded that they are knowledgeable about H1N1 Flu and Vaccine, but in reality they are not knowledgeable at all (False Negative).
 
 
-We also identify the coefficients in this array produced by our model. We want to identify the lowest coefficient and take the power of that coefficient in order to produce an odds value. We identified the lowest cofficients was education less than 12 years meaning if a surveyor responded with the education less than 12 years they were 0.42x likely to be knowledgeable about the vaccine. Other significant findings were if the surveyor responded male they were about 0.63x as likely to be knowledgeable about the H1N1 Flu and Vaccine.  Also Income below poverty are about 0.56x as likely to be knowledgeable about the H1N1 Flu and Vaccine.
+We also identify the coefficients in this array produced by our model. We want to identify the lowest coefficient and take the power of that coefficient in order to produce an odds value. We identified the lowest cofficients was `education_< 12 years` meaning if a surveyor responded with the education less than 12 years they were **0.42x** likely to be knowledgeable about the vaccine. Other significant findings were if the surveyor responded male they were about **0.63x** as likely to be knowledgeable about the H1N1 Flu and Vaccine.  Also Income below poverty are about 0.56x as likely to be knowledgeable about the H1N1 Flu and Vaccine.
 #
 # Graphing 
 Below are some of the important features that can lead to misinformation: overall knowledge of H1N1 and concern for H1N1 as they both can lead to misinformation.
@@ -106,3 +107,12 @@ The next steps we'd like to implement
 
 
 - We can also utilize this data to invest in more promotional material to increase awareness in the underepresented communities since the dataset was so imbalanced.
+
+# Repo Navigation
+├──data. 
+├──pictures  
+├──Working Notebooks
+├──.gitignore. 
+├──Project 3 Final Notebook.ipynb.
+├──Phase 3 Presentation.pdf 
+├──README.md. 
