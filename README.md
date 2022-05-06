@@ -92,10 +92,10 @@ Some future considerations we would like to consider:
 
 ├── [.gitignore](https://github.com/petercvuong/Phase_3_Project/blob/main/.gitignore  ) ---------------------------------> .gitignore used for the project.
 
-├── [Final_Notebook - Jupyter Notebook.pdf](https://github.com/petercvuong/Phase_3_Project/blob/main/Phase%203%20Project%20Final%20Notebook.pdf)            ---> A PDF of the final project notebook.
+├── [Project 3 - Tackling Vaccine Misinformation Final Notebook.pdf](https://github.com/petercvuong/Phase_3_Project/blob/main/Phase%203%20Project%20Final%20Notebook.pdf)            ---> A PDF of the final project notebook.
 
-├── [Final Phishing Capstone Notebook.ipynb](https://github.com/petercvuong/Phase_3_Project/blob/main/Project%203%20Final%20Notebook.ipynb)              ---------------------> The jupyter notebook containing the finalized code.
+├── [Project 3 - Tackling Vaccine Misinformation Final Notebook.ipynb](https://github.com/petercvuong/Phase_3_Project/blob/main/Project%203%20Final%20Notebook.ipynb)              ---------------------> The jupyter notebook containing the finalized code.
 
-├── [Web Phishing Detector Presentation.pdf](https://github.com/petercvuong/Phase_3_Project/blob/main/Phase%203%20Presentation.pdf)              --------------------------> A PDF of the presentation.
+├── [Tackling Vaccine Misinformation Presentation.pdf](https://github.com/petercvuong/Phase_3_Project/blob/main/Phase%203%20Presentation.pdf)              --------------------------> A PDF of the presentation.
 
 ├── [README.md](https://github.com/petercvuong/Phase_3_Project/blob/main/README.md)              ------------------------------> README.md for the project (you are here now).
